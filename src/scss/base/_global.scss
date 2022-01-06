@@ -1,0 +1,29 @@
+@use 'variables' as v ;
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.8rem;
+  font-family: v.$primaryFont;
+  color: v.$darkCyan;
+}
+
+
+.container {
+  max-width: 140rem;
+  width: 95%;
+  margin-inline: auto ;
+}
+
+h1 {
+  line-height: 1.5;
+  font-size: 3rem;
+  font-family: v.$secondaryFont;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: v.$secondaryFont;
+}
