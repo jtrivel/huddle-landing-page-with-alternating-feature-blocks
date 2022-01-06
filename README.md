@@ -29,11 +29,12 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/clipboard-landing-page-solution-with-grid-and-flexbox-huRgPUKyK)
-- Live Site URL: [Live Site URL](https://clipboard-landing-page001.netlify.app/)
+- Solution URL: [Solution URL](https://www.frontendmentor.io/solutions/huddle-landing-page-solution-with-grid-and-flexbox-4qJUPtBz_)
+- Live Site URL: [Live Site URL](https://huddle-landing-page0001.netlify.app/)
 
 ### Built with
 - SASS
+- CSS Grid
 - Flexbox
 - Mobile-first workflow
 
